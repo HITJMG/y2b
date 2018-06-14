@@ -6,14 +6,16 @@
 
 Mac、iPhone、iPad 建议使用 Safari 浏览器 —— 安卓设备任意浏览器 —— Windows edge 浏览器
 
-CCTV5 HD:http://124.47.33.211/PLTV/88888888/224/3221225489/index.m3u8 （超清，陕西广电网络，部分地区比较卡）
+* — 代表个人推荐度
 
-CCTV5:  http://hls.cntv.myqcloud.com/live/5213_cctv5_td.m3u8 （360P，海外党可看）
+*CCTV5 HD:http://124.47.33.211/PLTV/88888888/224/3221225489/index.m3u8 （超清，陕西广电网络，部分地区比较卡）
 
-CCTV5:  http://121.201.1.41/guangdianyun_35498/tv_channel_429__redirect__35498.m3u8 (360P，延迟大概20秒，海外党可看）
+**CCTV5:  http://hls.cntv.myqcloud.com/live/5213_cctv5_td.m3u8 （360P，海外党可看，可能在非直播时段无法观看）
 
-五星体育：http://hls.mv.wa5.com/live/gssports1/playlist.m3u8 （480P，延迟大概20秒，海外党可看）
+***CCTV5:  http://121.201.1.41/guangdianyun_35498/tv_channel_429__redirect__35498.m3u8 (360P，延迟大概20秒，海外党可看）
 
-五星体育：http://223.110.245.147/ott.js.chinamobile.com/PLTV/3/224/3221226799/index.m3u8 （480P，延迟大概一分钟，海外党可看）
+****五星体育：http://hls.mv.wa5.com/live/gssports1/playlist.m3u8 （480P，延迟大概20秒，海外党可看）
+
+****五星体育：http://223.110.245.147/ott.js.chinamobile.com/PLTV/3/224/3221226799/index.m3u8 （480P，延迟大概一分钟，海外党可看）
 
 
