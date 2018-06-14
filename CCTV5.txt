@@ -1,7 +1,8 @@
+【谷科】YouTube  频道更新
 目前移动 IPTV 因为版权原因，无法直播央视世界杯。以下将为大家更新可用直播链接。
 更新时间：2018.6.15 零点三十
 
 
-CCTV5HD：http://124.47.33.211/PLTV/88888888/224/3221225489/index.m3u8 
+CCTV5HD：http://124.47.33.211/PLTV/88888888/224/3221225489/index.m3u8 （陕西广电网络，部分地区比较卡）
 
-CCTV5 ：http://hls.cntv.myqcloud.com/live/5213_cctv5_td.m3u8
+CCTV5 ：http://hls.cntv.myqcloud.com/live/5213_cctv5_td.m3u8 （清晰度不太高，海内外能流畅观看直播）
