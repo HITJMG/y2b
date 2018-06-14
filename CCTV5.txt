@@ -8,7 +8,7 @@ CCTV5 HD:http://124.47.33.211/PLTV/88888888/224/3221225489/index.m3u8 （超清�
 
 CCTV5:  http://hls.cntv.myqcloud.com/live/5213_cctv5_td.m3u8 （360P，海外党可看）
 
-CCTV5:  http://121.201.1.41/guangdianyun_35498/tv_channel_429__redirect__35498.m3u8 (同上，海外党可看）
+CCTV5:  http://121.201.1.41/guangdianyun_35498/tv_channel_429__redirect__35498.m3u8 (360P，延迟大概20秒，海外党可看）
 
 五星体育：http://hls.mv.wa5.com/live/gssports1/playlist.m3u8 （480P，延迟大概20秒，海外党可看）
 
