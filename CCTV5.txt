@@ -15,3 +15,5 @@ CCTV5:  http://121.201.1.41/guangdianyun_35498/tv_channel_429__redirect__35498.m
 五星体育：http://hls.mv.wa5.com/live/gssports1/playlist.m3u8 （480P，延迟大概20秒，海外党可看）
 
 五星体育：http://223.110.245.147/ott.js.chinamobile.com/PLTV/3/224/3221226799/index.m3u8 （480P，延迟大概一分钟，海外党可看）
+
+
