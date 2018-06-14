@@ -1,0 +1,8 @@
+﻿CCTV5HD,http://121.31.30.90:8085/ysten-business/live/cctv-5/1.m3u8
+CCTV5HD,http://124.47.33.211/PLTV/88888888/224/3221225489/index.m3u8 
+CCTV5HD,http://223.82.250.72/live/cctv-5/1.m3u8 
+CCTV5HD,http://183.207.248.71/cntv/live1/HD-2500k-1080P-cctv5/HD-2500k-1080P-cctv5 
+CCTV5+HD,http://183.207.248.71/cntv/live1/hdcctv05plus/hdcctv05plus 
+CCTV5+HD,http://121.31.30.90:8085/ysten-business/live/hdcctv05plus/1.m3u8 
+CCTV5+HD,http://121.31.30.90:8085/ysten-business/live/hdcctv05plus/1.m3u8 
+CCTV5+HD,http://live3.nty.tv189.com/tm-cctv5ahd-800k.m3u8
