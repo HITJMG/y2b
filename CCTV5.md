@@ -6,13 +6,13 @@
 
 * Chrome 浏览器观看直播方法以及问题请看：https://www.youtube.com/watch?v=5GTilyzy2sI
 
-****更新时间：2018.6.15  20；45  测试环境：四川电信+美国 IP****
+****更新时间：2018.6.15  21:40  测试环境：四川电信+美国 IP****
 
 ****——————————————真的能直播的分界线————————————————****
 
 ### ★ 代表个人推荐度#
 
-★★★★★CCTV5 蓝光：rtsp://124.224.238.165:554/PLTV/88888888/224/3221225890/10000100000000060000000000725782_0.smil （1080P，宁夏电信，延迟5秒，Chrome✘，海外党√，该链接只允许 Windows 用户使用 potplayer 客户端播放，无法使用浏览器播放，其他用户都散了吧。）
+★★★★★CCTV5 蓝光：rtsp://124.224.238.165:554/PLTV/88888888/224/3221225890/10000100000000060000000000725782_0.smil（1080P，宁夏电信，延迟5秒，Chrome✘，海外党√，该链接只允许 Windows 用户使用 potplayer 客户端播放，其他用户都散了哈。）
 
 ★★★★ 五星体育 1080P：http://hls.mv.wa5.com/live/gssports1/playlist.m3u8 （延迟20秒，Chrome√，海外党√）
 
@@ -30,8 +30,8 @@
 
 http://qt1.alivecdn.com/sei/stream756209.m3u8 （Chrome√，海外党√）
 
-
 http://hls.live.ewqok.cn/888/66895713/index.m3u8 （Chrome√，海外党√）
 
+http://wshlsyt.xxshow.com/live/c85518/playlist.m3u8 （Chrome√，海外党√）
 
 
