@@ -26,7 +26,7 @@
 
 ★★ CCTV5 480P: http://35498.hlsplay.aodianyun.com/guangdianyun_35498/tv_channel_429.m3u8 (延迟20秒，Chrome√，海外党√）
 
-咪咕 詹俊老师解说西班牙 VS 葡萄牙 360P（延迟60秒，Chrome√，海外党✘，每场比赛之后链接失效）
+★★★ 咪咕 720P 詹俊老师解说西班牙 VS 葡萄牙 （延迟60秒，Chrome√，海外党✘，每场比赛之后链接失效）
 ：http://mgzb.live.miguvideo.com:8088/wd_r1/fifa/dkss1/720264/encrypt/01.m3u8?msisdn=13140574124&mdspid=&spid=800033&netType=4&sid=7500001409&pid=2028597139&timestamp=20180616013118&Channel_ID=25000201-99000-200300220100002&ProgramID=641999475&ParentNodeID=-99&assertID=7500001409&client_ip=49.83.16.171&SecurityKey=20180616013118&imei=867883032424443&promotionId=&mvid=7500001242&mcid=500020&mpid=27&mtv_session=c15a34634590bb28338c8f871ea0b89e&jid=E60AE8E53FA3F8100C1330BA88AFE0721529083880413V&LegoPageID=WC-LIVE&sjid=subsession_1529083880487&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=2c6305891593f32340885eb7c210daeb
 
 ————————————————————野球场——————————————————————
