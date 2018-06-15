@@ -28,10 +28,10 @@
 
 ————————————————————野球场——————————————————————
 
-http://qt1.alivecdn.com/sei/stream756209.m3u8 （Chrome√，海外党✘）
+http://qt1.alivecdn.com/sei/stream756209.m3u8 （Chrome√，海外党√）
 
 
-http://hls.live.ewqok.cn/888/66895713/index.m3u8 （Chrome√，海外党✘）
+http://hls.live.ewqok.cn/888/66895713/index.m3u8 （Chrome√，海外党√）
 
 
 
