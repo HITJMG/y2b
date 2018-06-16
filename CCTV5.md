@@ -33,9 +33,6 @@ http://hls.mv.wa5.com/live/gssports1/playlist.m3u8
 ★★★★ 五星体育 720P（延迟60秒，Chrome✘，海外党√）
 http://223.110.245.147/ott.js.chinamobile.com/PLTV/3/224/3221226799/index.m3u8 
 
-咪咕 720P （延迟60秒，Chrome√，海外党✘，每场比赛之后链接失效）
-http://mgzb.live.miguvideo.com:8088/wd_r1/fifa/dkss1/720264/encrypt/01.m3u8?msisdn=13140574124&mdspid=&spid=800033&netType=4&sid=7500001409&pid=2028597139&timestamp=20180616030747&Channel_ID=25000201-99000-200300220100002&ProgramID=641999475&ParentNodeID=-99&assertID=7500001409&client_ip=49.83.16.171&SecurityKey=20180616030747&imei=867883032424443&promotionId=&mvid=7500001242&mcid=500020&mpid=27&encrypt=f37c19b41464f78e6b39ea9677e22352&jid=E60AE8E53FA3F8100C1330BA88AFE0721529089669636V&LegoPageID=WC-LIVE&sjid=subsession_1529089669656&mtv_session=6a1a8bc0e6a17f9c81ecbbe2fe6e6ca2&HlsSubType=1&HlsProfileId=1&nphaid=0
-
 
 
 ————————————————————野球场——————————————————————
