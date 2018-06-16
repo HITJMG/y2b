@@ -40,4 +40,6 @@ http://mgzb.live.miguvideo.com:8088/wd_r1/fifa/dkss1/720264/encrypt/01.m3u8?msis
 
 http://hls6.kascend.com/chushou_live/e2f229c7a3e948648411790c1779ac9b.m3u8 （Chrome√，海外党√）
 
+http://qt1.alivecdn.com/sei/stream410636.m3u8 （Chrome√，海外党√）
 
+http://hls.live.ewqok.cn/888/43911108/index.m3u8 （Chrome√，海外党√）
