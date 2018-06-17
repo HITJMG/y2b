@@ -1,20 +1,16 @@
 ## 欢迎关注【谷科】YouTube 频道
 
-* 苹果贵族建议使用 Safari 浏览器 —— 安卓小弟任意浏览器 —— 微硬大哥 edge 浏览器和potplayer
+* 苹果贵族建议使用 Safari 浏览器 —— 安卓小弟任意浏览器 —— 微硬大哥 edge 浏览器和 potplayer
 
 * Chrome 浏览器观看直播方法以及问题请看：https://www.youtube.com/watch?v=5GTilyzy2sI
 
-* Mac和安卓同学打开 rstp 使用 MPV 播放器，请看：https://www.youtube.com/edit?o=U&video_id=QcAp-R9AXBo
+* Mac和安卓同学打开 rstp 使用 MPV 播放器，请看：https://www.youtube.com/watch?v=QcAp-R9AXBo
 
 测试环境：四川电信+美国+伦敦 IP
 
-****更新时间：2018.6.17  18:22  更新内容：无****
+****更新时间：2018.6.17  21:22  更新内容：增加外语频道解说，方便海外同学****
 
-#### ————————反馈汇总——————————
 
-五星体育成为众多用户海外用户首选
-
-三位加拿大、两位泰国用户反馈连接困难
 
 ### ★ 代表个人推荐度
 
@@ -25,6 +21,7 @@ rtsp://124.224.238.165:554/PLTV/88888888/224/3221225890/100001000000000600000000
 
 ★★★★★★CCTV5 蓝光 （宁夏电信，延迟5秒，所有浏览器✘，海外党√，Windows 用 potplayer，Mac和安卓用 MPV。）
 rtsp://124.224.238.170/PLTV/88888888/224/3221225890/10000100000000060000000000725782_0.smil
+
 
 ****—————————————————浏览器通用——————————————————****
 
@@ -60,6 +57,16 @@ http://223.110.245.167/ott.js.chinamobile.com/PLTV/3/224/3221226942/index.m3u8
 
 
 
-————————————————————野球场——————————————————————
+————————————————————海外频道——————————————————————
 
+Fox Sports 1（延迟感人，大概十分钟）
+http://51.15.226.205:1935/live/fox11/chunklist_w2136964951.m3u8
+
+
+Bein sports HD1（AV 画质）
+https://alcaline.vipcast.se/hls/ch1allcast2021.m3u8?secure=c2VydmVyX3RpbWU9Ni8xNy8yMDE4IDEyOjQ3OjAxIFBNJmhhc2hfdmFsdWU9aGk0cG9HQ1RIV2taazdPcUJYdlM1UT09JnZhbGlkbWludXRlcz0xODAmc3RybV9sZW49MTk=&expires=1529243221&md5=oh5QTStdVEQHfEbvAiRXyA
+
+
+TSN （720P，需要北美 IP，美国，后两个没办法测加拿大、墨西哥）
+https://1.picturecdn.ml/live/tsn-hq/chunks.m3u8?nimblesessionid=1735286&wmsAuthSign=c2VydmVyX3RpbWU9Ni8xNy8yMDE4IDE6MDA6NTAgUE0maGFzaF92YWx1ZT1JakN5TDN5bGpSNjJOQjV6MGMvWDNRPT0mdmFsaWRtaW51dGVzPTYwJmlkPTE5OS4xODguMjAwLjg2JnN0cm1fbGVuPTU=
 
