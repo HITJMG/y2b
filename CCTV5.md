@@ -58,15 +58,15 @@ http://223.110.245.167/ott.js.chinamobile.com/PLTV/3/224/3221226942/index.m3u8
 
 
 ————————————————————海外频道——————————————————————
-
-Fox Sports 1（emm，暂时失效）
+失效的速度想骂人
+Fox Sports 1（）
 
 
 
 Bein sports HD1（AV 画质）
-https://alcaline.vipcast.se/hls/ch1allcast2021.m3u8?secure=c2VydmVyX3RpbWU9Ni8xNy8yMDE4IDEyOjQ3OjAxIFBNJmhhc2hfdmFsdWU9aGk0cG9HQ1RIV2taazdPcUJYdlM1UT09JnZhbGlkbWludXRlcz0xODAmc3RybV9sZW49MTk=&expires=1529243221&md5=oh5QTStdVEQHfEbvAiRXyA
+
 
 
 TSN （720P，需要北美 IP，美国，后两个没办法测加拿大、墨西哥）
-https://1.picturecdn.ml/live/tsn-hq/chunks.m3u8?nimblesessionid=1735286&wmsAuthSign=c2VydmVyX3RpbWU9Ni8xNy8yMDE4IDE6MDA6NTAgUE0maGFzaF92YWx1ZT1JakN5TDN5bGpSNjJOQjV6MGMvWDNRPT0mdmFsaWRtaW51dGVzPTYwJmlkPTE5OS4xODguMjAwLjg2JnN0cm1fbGVuPTU=
+
 
