@@ -59,8 +59,8 @@ http://223.110.245.167/ott.js.chinamobile.com/PLTV/3/224/3221226942/index.m3u8
 
 ————————————————————海外频道——————————————————————
 
-Fox Sports 1（延迟感人，大概十分钟）
-http://51.15.226.205:1935/live/fox11/chunklist_w2136964951.m3u8
+Fox Sports 1（emm，暂时失效）
+
 
 
 Bein sports HD1（AV 画质）
