@@ -61,16 +61,5 @@ http://223.110.245.167/ott.js.chinamobile.com/PLTV/3/224/3221226942/index.m3u8
 
 ————————————————————海外频道——————————————————————
 
-Fox Sports 1（）
-
-
-BBC（仅北美 IP）
-http://31.220.3.192:8081/live/jtvmix2/chunks.m3u8?nimblesessionid=495405&wmsAuthSign=c2VydmVyX3RpbWU9Ni8xNy8yMDE4IDI6MDQ6NTYgUE0maGFzaF92YWx1ZT1tT21TandLSnlFZk9mQmlDd3hrSGhnPT0mdmFsaWRtaW51dGVzPTEyMA==
-
-Bein sports HD1（AV 画质）
-https://alcaline.vipcast.se/hls/ch1allcast2021.m3u8?secure=c2VydmVyX3RpbWU9Ni8xNy8yMDE4IDQ6MTE6MDkgUE0maGFzaF92YWx1ZT1kWHRpZlB0R1RXZHlSTEN2UGhibTBnPT0mdmFsaWRtaW51dGVzPTE4MCZzdHJtX2xlbj0xOQ==&expires=1529255469&md5=pisld0y3Nol6xosyBBai5A
-
-
-TSN （720P，需要北美 IP，美国，后两个没办法测加拿大、墨西哥）
 
 
