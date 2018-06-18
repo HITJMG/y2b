@@ -8,7 +8,7 @@
 
 测试环境：四川电信+美国+伦敦 IP
 
-****更新时间：2018.6.17  20:10  更新内容：祝大家节日快乐****
+****更新时间：2018.6.17  20:35  更新内容：热心市民 Tommy 为大家带来些标清画质 C5的链接，另祝大家节日快乐****
 
 如果遇到打开链接闪退的情况，多尝试几次，另外国内十二点以后洗洗睡睡的应该就不卡了。
 
@@ -69,7 +69,17 @@ CCTV5 https://live.cctalk.com/live_cctalk/cc_m51lrb9x9iuvdr8dxk/index.m3u8
 
 
 
-————————————————————海外频道——————————————————————
+————————————————————热心市民 Tommy CCTV5——————————————————————
+
+http://hhab.chinashadt.com:2136/live/di2.stream/playlist.m3u8
+
+http://hbwq.chinashadt.com:1935/live/stream:cctv5.stream/playlist.m3u8
+
+http://jxsg.chinashadt.com:1936/live/CCTV13.stream_aac/playlist.m3u8
+
+http://hnxy.chinashadt.com:1936/live/tv3.stream_aac/playlist.m3u8
+
+http://sdwd.chinashadt.com:1935/live/cctv5.stream/playlist.m3u8
 
 
 
