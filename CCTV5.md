@@ -11,7 +11,7 @@
 测试环境：四川电信+美国+伦敦 IP
 
 
-****更新时间：2018.6.18  15:16  更新内容：无****
+****更新时间：2018.6.18  19:02  更新内容：野球场****
 
 如果你突然打了个喷嚏，那一定就是她在想你
 部分直播链接赛前、赛中不定时更新
@@ -72,13 +72,12 @@ http://223.110.245.167/ott.js.chinamobile.com/PLTV/3/224/3221226942/index.m3u8
 
 
 
-****——————————————————————野球场,海外可用，最后更新时间 6.17——————————————————————****
+****——————————————————————野球场,海外可用，最后更新时间 6.18——————————————————————****
 
-CCTV5 https://live.cctalk.com/live_cctalk/cc_m51lrb9x9iuvdr8dxk/index.m3u8
+CCTV5 http://pull.stager.jp.8686c.com/stager/251405/playlist.m3u8
 
-无解说 http://pull.stager.jp.8686c.com/stager/974703/playlist.m3u8
+CCTV5:https://live.cctalk.com/live_cctalk/cc_tjck9780t4hv9xpoa4/index.m3u8
 
-咪咕 http://qt1.alivecdn.com/sei/stream948419.m3u8
 
 
 
