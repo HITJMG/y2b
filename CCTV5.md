@@ -6,14 +6,16 @@
 
 * Mac和安卓同学打开 rstp 使用 MPV 播放器，请看：https://www.youtube.com/watch?v=QcAp-R9AXBo
 
+* 加速不卡带，流畅观看世界杯的播放神器：https://www.youtube.com/watch?v=oBwrrt2kOPc
+
 如果遇到打开链接闪退的情况，多尝试几次，另外国内十二点以后洗洗睡睡的就不卡了。
 
 测试环境：四川电信+美国+伦敦 IP
 
 
-****更新时间：2018.6.18  19:02  更新内容：野球场****
 
-如果你突然打了个喷嚏，那一定就是她在想你
+****更新时间：2018.6.18  19:28  更新内容：听【谷科】音乐电台 我们静静等待比赛****
+
 部分直播链接赛前、赛中不定时更新
 
 
@@ -37,10 +39,10 @@ rtsp://124.224.238.170/PLTV/88888888/224/3221225890/1000010000000006000000000072
 http://39.134.52.171/wh7f454c46tw3773685428_-1812949401/hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226035/index.m3u8
 
 ★★★★★ 咪咕 （720P，延时60秒，Chrome√，海外党✘，每场比赛后链接失效）
-
+http://mgzb.live.miguvideo.com:8088/wd_r1/fifa/cctv5hd/720264/encrypt/01.m3u8?msisdn=13140574124&mdspid=&spid=800033&netType=4&sid=7500001453&pid=2028597139&timestamp=20180619015515&Channel_ID=25000203-99000-200300220100002&ProgramID=642133407&ParentNodeID=-99&assertID=7500001453&client_ip=49.83.19.26&SecurityKey=20180619015515&imei=867883032424443&promotionId=&mvid=7500001286&mcid=500020&mpid=57&mtv_session=7a8f32bab12d892fa66115a4346fd3fc&jid=E60AE8E53FA3F8100C1330BA88AFE0721529344518667V&LegoPageID=WC-LIVE&sjid=subsession_1529344518701&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=5ab45d0de1e2f0bbb7840c1661c7e6de
 
 ★★★★★咪咕 （1080P，延时60秒，Chrome√，海外党✘，每场比赛后链接失效）
-
+http://mgzb.live.miguvideo.com:8088/wd_r1/fifa/cctv5hd/1080264/encrypt/01.m3u8?msisdn=13140574124&mdspid=&spid=800033&netType=4&sid=7500001453&pid=2028597139&timestamp=20180619015619&Channel_ID=25000203-99000-200300220100002&ProgramID=642133407&ParentNodeID=-99&assertID=7500001453&client_ip=49.83.19.26&SecurityKey=20180619015619&imei=867883032424443&promotionId=&mvid=7500001286&mcid=500020&mpid=57&mtv_session=d85a3465335de5715e8bbf1241013582&jid=E60AE8E53FA3F8100C1330BA88AFE0721529344583052V&LegoPageID=WC-LIVE&sjid=subsession_1529344583061&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=1f6dc0d782b0e661ff3c85acb8dddfd1
  
 ★★★★★ CCTV5 1080P（广东联通，延迟80秒，Chrome✘，海外党√）
 http://116.199.5.51:8114/LIVES/index.m3u8?Fsv_otype=1&FvSeid=&Pcontent_id=&Provider_id=&Fsv_chan_hls_se_idx=39
