@@ -6,11 +6,17 @@
 
 * Mac和安卓同学打开 rstp 使用 MPV 播放器，请看：https://www.youtube.com/watch?v=QcAp-R9AXBo
 
+如果遇到打开链接闪退的情况，多尝试几次，另外国内十二点以后洗洗睡睡的就不卡了。
+
 测试环境：四川电信+美国+伦敦 IP
 
-****更新时间：2018.6.17  22:57  更新内容：增加咪咕视频，另祝大家节日快乐****
 
-如果遇到打开链接闪退的情况，多尝试几次，另外国内十二点以后洗洗睡睡的应该就不卡了。
+****更新时间：2018.6.18  15:16  更新内容：无****
+
+如果你突然打了个喷嚏，那一定就是她在想你
+部分直播链接赛前、赛中不定时更新
+
+
 
 ### ★ 代表个人推荐度
 
@@ -30,11 +36,11 @@ rtsp://124.224.238.170/PLTV/88888888/224/3221225890/1000010000000006000000000072
 ★★★★★CCTV5 超清（辽宁移动，延迟120秒，Chrome✘，海外党√，谢谢@夏丹）
 http://39.134.52.171/wh7f454c46tw3773685428_-1812949401/hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226035/index.m3u8
 
-★★★★★ 咪咕 （720P，延时60秒，Chrome√，海外党✘）
-http://mgzb.live.miguvideo.com:8088/wd_r1/fifa/cctv5hd/720264/encrypt/01.m3u8?msisdn=13140574124&mdspid=&spid=800033&netType=4&sid=7500001455&pid=2028597139&timestamp=20180618203539&Channel_ID=25000203-99000-200300220100002&ProgramID=642133396&ParentNodeID=-99&assertID=7500001455&client_ip=49.83.19.26&SecurityKey=20180618203539&imei=867883032424443&promotionId=&mvid=7500001288&mcid=500020&mpid=51&mtv_session=f17fa8663ee06b46b8e765b68df314fe&jid=E60AE8E53FA3F8100C1330BA88AFE0721529325342869V&LegoPageID=WC-LIVE&sjid=subsession_1529325342880&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=74f4819d870d80625a6bb5e4517d1420
+★★★★★ 咪咕 （720P，延时60秒，Chrome√，海外党✘，每场比赛后链接失效）
 
-★★★★★咪咕（1080P，延时60秒，Chrome√，海外党✘）
-http://mgzb.live.miguvideo.com:8088/wd_r1/fifa/cctv5hd/1080264/encrypt/01.m3u8?msisdn=13140574124&mdspid=&spid=800033&netType=4&sid=7500001455&pid=2028597139&timestamp=20180618203626&Channel_ID=25000203-99000-200300220100002&ProgramID=642133396&ParentNodeID=-99&assertID=7500001455&client_ip=49.83.19.26&SecurityKey=20180618203626&imei=867883032424443&promotionId=&mvid=7500001288&mcid=500020&mpid=51&mtv_session=e611c84a09f10a4bb7b8d052a6fb7854&jid=E60AE8E53FA3F8100C1330BA88AFE0721529325389985V&LegoPageID=WC-LIVE&sjid=subsession_1529325389986&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=00439b07639116ec0e5662a107913bd6
+
+★★★★★咪咕 （1080P，延时60秒，Chrome√，海外党✘，每场比赛后链接失效）
+
  
 ★★★★★ CCTV5 1080P（广东联通，延迟80秒，Chrome✘，海外党√）
 http://116.199.5.51:8114/LIVES/index.m3u8?Fsv_otype=1&FvSeid=&Pcontent_id=&Provider_id=&Fsv_chan_hls_se_idx=39
@@ -66,7 +72,7 @@ http://223.110.245.167/ott.js.chinamobile.com/PLTV/3/224/3221226942/index.m3u8
 
 
 
-——————————————————————野球场,海外可用——————————————————————
+****——————————————————————野球场,海外可用，最后更新时间 6.17——————————————————————****
 
 CCTV5 https://live.cctalk.com/live_cctalk/cc_m51lrb9x9iuvdr8dxk/index.m3u8
 
@@ -76,7 +82,7 @@ CCTV5 https://live.cctalk.com/live_cctalk/cc_m51lrb9x9iuvdr8dxk/index.m3u8
 
 
 
-————————————————————热心市民 Tommy CCTV5，海外可用——————————————————————
+****————————————————————热心市民 Tommy CCTV5，海外可用——————————————————————****
 
 http://hhab.chinashadt.com:2136/live/di2.stream/playlist.m3u8
 
