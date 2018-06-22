@@ -14,7 +14,7 @@
 
 
 
-****更新时间：2018.6.22  01:15 更新内容：咪咕 阿根廷 VS 克罗地亚****
+****更新时间：2018.6.22  19:45 更新内容：咪咕 巴西 VS 哥斯达黎加****
 
 部分直播链接赛前、赛中不定时更新
 
@@ -39,10 +39,10 @@ rtsp://124.224.238.170/PLTV/88888888/224/3221225890/1000010000000006000000000072
 http://39.134.52.171/wh7f454c46tw3773685428_-1812949401/hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226035/index.m3u8
 
 ★★★★★ 咪咕 （720P，延时60秒，Chrome√，海外党✘，每场比赛后链接失效）
-http://mgzb.live.miguvideo.com:8088/wd_r1/fifa/cctv5hd/720264/encrypt/01.m3u8?msisdn=13140574124&mdspid=&spid=800033&netType=4&sid=7500001497&pid=2028597139&timestamp=20180621224411&Channel_ID=25000203-99000-200300220100002&ProgramID=642285441&ParentNodeID=-99&assertID=7500001497&client_ip=180.126.168.135&SecurityKey=20180621224411&imei=867883032424443&promotionId=&mvid=7500001330&mcid=500020&mpid=35&mtv_session=d3ce260eb5aeeebb4a59b87194835193&jid=E60AE8E53FA3F8100C1330BA88AFE0721529592251934V&LegoPageID=WC-LIVE&sjid=subsession_1529592251939&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=72c96bcaf1aae6a682179ca17494d8f0
+http://mgzb.live.miguvideo.com:8088/wd_r2/cctv/cctv5hdnew/1200/01.m3u8?msisdn=13140574124&mdspid=&spid=699004&netType=4&sid=5500516171&pid=2028597139&timestamp=20180622192247&Channel_ID=25000203-99000-200300220100002&ProgramID=641886683&ParentNodeID=-99&assertID=5500516171&client_ip=180.126.168.46&SecurityKey=20180622192247&imei=867883032424443&promotionId=&mvid=&mcid=&mpid=&mtv_session=6b0272f995fb55a6ae5e27a8f46ee8fc&jid=E60AE8E53FA3F8100C1330BA88AFE0721529666567999Q&sjid=subsession_1529666568505&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=5b602d8ae3ae3618e7481c4e1d7c1e4a
 
 ★★★★★咪咕 （1080P，延时60秒，Chrome√，海外党✘，每场比赛后链接失效）
-http://mgzb.live.miguvideo.com:8088/wd_r1/fifa/cctv5hd/1080264/encrypt/01.m3u8?msisdn=13140574124&mdspid=&spid=800033&netType=4&sid=7500001497&pid=2028597139&timestamp=20180621224449&Channel_ID=25000203-99000-200300220100002&ProgramID=642285441&ParentNodeID=-99&assertID=7500001497&client_ip=180.126.168.135&SecurityKey=20180621224449&imei=867883032424443&promotionId=&mvid=7500001330&mcid=500020&mpid=35&mtv_session=bf3b075f18145df35131a1c3d0a5db18&jid=E60AE8E53FA3F8100C1330BA88AFE0721529592289929V&LegoPageID=WC-LIVE&sjid=subsession_1529592289929&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=2d3a615ca1ccaf3c02abfd880124a3b6
+http://mgzb.live.miguvideo.com:8088/wd_r2/cctv/cctv5hdnew/2500/01.m3u8?msisdn=13140574124&mdspid=&spid=699004&netType=4&sid=5500516171&pid=2028597139&timestamp=20180622192038&Channel_ID=25000203-99000-200300220100002&ProgramID=641886683&ParentNodeID=-99&assertID=5500516171&client_ip=180.126.168.46&SecurityKey=20180622192038&imei=867883032424443&promotionId=&mvid=&mcid=&mpid=&mtv_session=f023003439d468eb7eb0e9d758b5efe9&jid=E60AE8E53FA3F8100C1330BA88AFE0721529666438856V&sjid=subsession_1529666439482&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=f5b868ce191fd62eb1a4ca83b3093ab6
 
 ★★★★★ CCTV5 1080P（广东联通，延迟80秒，Chrome✘，海外党√）
 http://116.199.5.51:8114/LIVES/index.m3u8?Fsv_otype=1&FvSeid=&Pcontent_id=&Provider_id=&Fsv_chan_hls_se_idx=39
