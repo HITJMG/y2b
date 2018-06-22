@@ -14,7 +14,7 @@
 
 
 
-****更新时间：2018.6.22  19:45 更新内容：咪咕 尼日利亚 VS 冰岛****
+****更新时间：2018.6.23  00:14 更新内容：咪咕 塞尔维亚 VS 瑞士****
 
 部分直播链接赛前、赛中不定时更新
 
@@ -22,7 +22,7 @@
 
 ### ★ 代表个人推荐度
 
-****——————————————只能用播放器————————————————****
+****———————只能用播放器，如遇无法打开，依次继续用下面的链接———————————****
 
 ★★★★★★CCTV5 蓝光 （宁夏电信，延迟5秒，所有浏览器✘，海外党√，Windows 用 potplayer，Mac和安卓用 MPV）
 rtsp://124.224.238.165:554/PLTV/88888888/224/3221225890/10000100000000060000000000725782_0.smil 
@@ -33,13 +33,13 @@ rtsp://124.224.238.170/PLTV/88888888/224/3221225890/1000010000000006000000000072
 
 
 
-****—————————————————浏览器通用——————————————————****
+****———————浏览器通用，海外推荐五星体育720P———————****
 
 ★★★★★ 咪咕 （720P，延时60秒，Chrome√，海外党✘，每场比赛后链接失效）
-http://mgzb.live.miguvideo.com:8088/wd_r1/fifa/cctv5hd/720264/encrypt/01.m3u8?msisdn=13140574124&mdspid=&spid=800033&netType=4&sid=7500001545&pid=2028597139&timestamp=20180622203753&Channel_ID=25000203-99000-200300220100002&ProgramID=642341454&ParentNodeID=-99&assertID=7500001545&client_ip=180.126.168.46&SecurityKey=20180622203753&imei=867883032424443&promotionId=&mvid=7500001378&mcid=500020&mpid=46&mtv_session=9ac1ef51febeb9f236bc453757346145&jid=E60AE8E53FA3F8100C1330BA88AFE0721529671074249V&LegoPageID=WC-LIVE&sjid=subsession_1529671074256&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=8edb70f2569aed76eee7cb4deb9d81fc
+http://mgzb.live.miguvideo.com:8088/wd_r1/fifa/cctv5hd/720264/encrypt/01.m3u8?msisdn=13140574124&mdspid=&spid=800033&netType=4&sid=7500001546&pid=2028597139&timestamp=20180622225103&Channel_ID=25000203-99000-200300220100002&ProgramID=642341458&ParentNodeID=-99&assertID=7500001546&client_ip=180.126.168.46&SecurityKey=20180622225103&imei=867883032424443&promotionId=&mvid=7500001379&mcid=500020&mpid=41&mtv_session=34e0b82a832f1e60089000c2cce1fb7e&jid=E60AE8E53FA3F8100C1330BA88AFE0721529679064887V&LegoPageID=WC-LIVE&sjid=subsession_1529679064893&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=8499cd17bcb08b448371fad0d4beeb64
 
 ★★★★★咪咕 （1080P，延时60秒，Chrome√，海外党✘，每场比赛后链接失效）
-http://mgzb.live.miguvideo.com:8088/wd_r1/fifa/cctv5hd/720264/encrypt/01.m3u8?msisdn=13140574124&mdspid=&spid=800033&netType=4&sid=7500001545&pid=2028597139&timestamp=20180622203753&Channel_ID=25000203-99000-200300220100002&ProgramID=642341454&ParentNodeID=-99&assertID=7500001545&client_ip=180.126.168.46&SecurityKey=20180622203753&imei=867883032424443&promotionId=&mvid=7500001378&mcid=500020&mpid=46&mtv_session=9ac1ef51febeb9f236bc453757346145&jid=E60AE8E53FA3F8100C1330BA88AFE0721529671074249V&LegoPageID=WC-LIVE&sjid=subsession_1529671074256&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=8edb70f2569aed76eee7cb4deb9d81fc
+http://mgzb.live.miguvideo.com:8088/wd_r1/fifa/cctv5hd/1080264/encrypt/01.m3u8?msisdn=13140574124&mdspid=&spid=800033&netType=4&sid=7500001546&pid=2028597139&timestamp=20180622225301&Channel_ID=25000203-99000-200300220100002&ProgramID=642341458&ParentNodeID=-99&assertID=7500001546&client_ip=180.126.168.46&SecurityKey=20180622225301&imei=867883032424443&promotionId=&mvid=7500001379&mcid=500020&mpid=41&mtv_session=2e4e8fbb91750294950e838eef53c8e1&jid=E60AE8E53FA3F8100C1330BA88AFE0721529679183322V&LegoPageID=WC-LIVE&sjid=subsession_1529679183322&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=0c9a8afd09b00f2ea0833dd4cef3388b
 
 ★★★★★ CCTV5 1080P（广东联通，延迟80秒，Chrome✘，海外党√）
 http://116.199.5.51:8114/LIVES/index.m3u8?Fsv_otype=1&FvSeid=&Pcontent_id=&Provider_id=&Fsv_chan_hls_se_idx=39
@@ -63,7 +63,7 @@ http://hls.mv.wa5.com/live/gssports1/playlist.m3u8
 http://223.110.245.147/ott.js.chinamobile.com/PLTV/3/224/3221226799/index.m3u8 
 
 ★★★★★ 广东体育 720P（Chrome√，海外党✘，每场比赛后链接失效）
-http://mgzb.live.miguvideo.com:8088/wd_r1/fifa/gdtyhd/720264/encrypt/01.m3u8?msisdn=13140574124&mdspid=&spid=800033&netType=4&sid=7500001567&pid=2028597139&timestamp=20180622194006&Channel_ID=25000203-99000-200300220100002&ProgramID=642347804&ParentNodeID=-99&assertID=7500001567&client_ip=180.126.168.46&SecurityKey=20180622194006&imei=867883032424443&promotionId=&mvid=7500001400&mcid=500020&mpid=46&mtv_session=164fa6b36f27d0c53c7e4e3dcf2fae5c&jid=E60AE8E53FA3F8100C1330BA88AFE0721529667607564V&LegoPageID=WC-LIVE&sjid=subsession_1529667607572&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=9b573c701592d927359356cbf1f08a34
+http://mgzb.live.miguvideo.com:8088/wd_r1/fifa/gdtyhd/720264/encrypt/01.m3u8?msisdn=13140574124&mdspid=&spid=800033&netType=4&sid=7500001568&pid=2028597139&timestamp=20180622225135&Channel_ID=25000203-99000-200300220100002&ProgramID=642347863&ParentNodeID=-99&assertID=7500001568&client_ip=180.126.168.46&SecurityKey=20180622225135&imei=867883032424443&promotionId=&mvid=7500001401&mcid=500020&mpid=41&mtv_session=c0aca3635fe371d1c023d0042c284888&jid=E60AE8E53FA3F8100C1330BA88AFE0721529679097302V&LegoPageID=WC-LIVE&sjid=subsession_1529679097309&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=adaff4bbd414d7b8f9a0a0cae8047e24
 
 
 ★★ CCTV5 720P（南京移动，延迟120秒，Chrome✘，海外党√）
@@ -72,14 +72,14 @@ http://223.110.245.167/ott.js.chinamobile.com/PLTV/3/224/3221226942/index.m3u8
 
 
 
-****——————————————————————野球场,海外可用，最后更新时间 6.21——————————————————————****
+****————野球场,海外可用，最后更新时间 6.22——————****
 
 CCTV5   http://qt1.alivecdn.com/sei/stream532376.m3u8
 
 
 
 
-****————————————————————热心市民 Tommy CCTV5，海外可用——————————————————————****
+****—————热心市民 Tommy CCTV5，海外可用———————****
 
 http://hhab.chinashadt.com:2136/live/di2.stream/playlist.m3u8
 
