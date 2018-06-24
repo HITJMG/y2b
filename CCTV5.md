@@ -79,7 +79,8 @@ http://111.48.34.235/wh7f454c46tw224879224_2084140391/huaweicdn.hb.chinamobile.c
 http://223.110.245.147/ott.js.chinamobile.com/PLTV/3/224/3221226799/index.m3u8 
 
 ★★★★ 五星体育 1080P （延迟20秒，Chrome√，海外党√）
-http://hls.mv.wa5.com/live/gssports1_900/playlist.m3u8        
+http://hls.mv.wa5.com/live/gssports1_900/playlist.m3u8 
+
 http://hls.mv.wa5.com/live/gssports1/playlist.m3u8
 
 ★★ CCTV5 720P（南京移动，延迟120秒，Chrome✘，海外党√）
@@ -91,9 +92,8 @@ http://223.110.245.167/ott.js.chinamobile.com/PLTV/3/224/3221226942/index.m3u8
 
 
 ****————野球场,海外可用，最后更新时间 6.24晚——————****
-
-优酷   http://qt1.alivecdn.com/sei/stream224529.m3u8
 CCTV5 https://live.cctalk.com/live_cctalk/cc_g6fb43d881cubrb0sz/index.m3u8
+
 台湾艾尔达体育 http://nscreenn-chtmod.cdn.hinet.net/live/FOOTBALL/04.m3u8
 
 
