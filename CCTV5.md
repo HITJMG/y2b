@@ -95,10 +95,10 @@ http://223.110.245.167/ott.js.chinamobile.com/PLTV/3/224/3221226942/index.m3u8
 
 
 
-****————野球场,海外可用，最后更新时间 6.24——————****
+****————野球场,海外可用，最后更新时间 6.24晚——————****
 
-优酷   http://qt1.alivecdn.com/sei/stream413699.m3u8
-CCTV5 https://live.cctalk.com/live_cctalk/cc_g89765r1thj3eftpex/index.m3u8
+优酷   http://qt1.alivecdn.com/sei/stream224529.m3u8
+CCTV5 https://live.cctalk.com/live_cctalk/cc_g6fb43d881cubrb0sz/index.m3u8
 
 
 
@@ -109,8 +109,6 @@ CCTV5 https://live.cctalk.com/live_cctalk/cc_g89765r1thj3eftpex/index.m3u8
 http://hhab.chinashadt.com:2136/live/di2.stream/playlist.m3u8
 
 http://hnxy.chinashadt.com:1936/live/tv3.stream_aac/playlist.m3u8
-
-
 
 
 
