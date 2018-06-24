@@ -14,7 +14,7 @@
 
 
 
-****更新时间：2018.6.24  01:50 更新内容：咪咕 德国 vs 瑞典****
+****更新时间：2018.6.24  13:34 更新内容：增加四川电信蓝光链接****
 
 部分直播链接赛前、赛中不定时更新
 
@@ -33,7 +33,7 @@ rtsp://124.224.238.168:554/PLTV/88888888/224/3221225890/100001000000000600000000
 rtsp://124.224.238.169:554/PLTV/88888888/224/3221225890/10000100000000060000000000725782_0.smil
 
 
-★★★★★★CCTV5 蓝光 （宁夏电信，延迟5秒，所有浏览器✘，海外党√，Windows 用 potplayer，Mac和安卓用 MPV）
+★★★★★★CCTV5 蓝光 （宁夏电信，延迟5秒，所有浏览器✘，海外党√，全平台VLC播放器，或者Windows 用 potplayer，Mac和安卓用 MPV）
 http://124.224.238.170/PLTV/88888888/224/3221225890/10000100000000060000000000725782_0.smil
 http://124.224.238.171/PLTV/88888888/224/3221225890/10000100000000060000000000725782_0.smil
 http://124.224.238.172/PLTV/88888888/224/3221225890/10000100000000060000000000725782_0.smil
@@ -41,15 +41,21 @@ http://124.224.238.173/PLTV/88888888/224/3221225890/1000010000000006000000000072
 http://124.224.238.174/PLTV/88888888/224/3221225890/10000100000000060000000000725782_0.smil
 
 
+★★★★★★CCTV5 蓝光 （四川电信，延迟10秒，所有浏览器✘，海外党√，Windows 用 potplayer，Mac和安卓用 MPV）
+rtsp://118.123.56.56:554/PLTV/88888893/224/3221227219/10000100000000060000000001366244_0.smil
+rtsp://118.123.56.55:554/PLTV/88888893/224/3221227219/10000100000000060000000001366244_0.smil
+rtsp://118.123.56.54:554/PLTV/88888893/224/3221227219/10000100000000060000000001366244_0.smil
+rtsp://118.123.56.53:554/PLTV/88888893/224/3221227219/10000100000000060000000001366244_0.smil
+
 
 
 ****———————浏览器通用，海外推荐五星体育———————****
 
 ★★★★★ 咪咕 （720P，延时60秒，Chrome√，海外党✘，每场比赛后链接失效）
-http://mgzb.live.miguvideo.com:8088/wd_r1/fifa/cctv5hd/720264/encrypt/01.m3u8?msisdn=13140574124&mdspid=&spid=800033&netType=4&sid=7500001580&pid=2028597139&timestamp=20180624014800&Channel_ID=25000203-99000-200300220100002&ProgramID=642396212&ParentNodeID=-99&assertID=7500001580&client_ip=180.126.168.46&SecurityKey=20180624014800&imei=867883032424443&promotionId=&mvid=7500001413&mcid=500020&mpid=53&mtv_session=bd71b446f12c0d6ad8b5cb80dc7a4141&jid=E60AE8E53FA3F8100C1330BA88AFE0721529776082268V&LegoPageID=WC-LIVE&sjid=subsession_1529776082279&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=011f544e77cf59dc13868095c4929794
+
 
 ★★★★★咪咕 （1080P，延时60秒，Chrome√，海外党✘，每场比赛后链接失效）
-http://mgzb.live.miguvideo.com:8088/wd_r1/fifa/cctv5hd/1080264/encrypt/01.m3u8?msisdn=13140574124&mdspid=&spid=800033&netType=4&sid=7500001579&pid=2028597139&timestamp=20180623225952&Channel_ID=25000203-99000-200300220100002&ProgramID=642396204&ParentNodeID=-99&assertID=7500001579&client_ip=180.126.168.46&SecurityKey=20180623225952&imei=867883032424443&promotionId=&mvid=7500001412&mcid=500020&mpid=52&mtv_session=88bc3148e60e089b07ee04524a0f20bc&jid=E60AE8E53FA3F8100C1330BA88AFE0721529765994015V&LegoPageID=WC-LIVE&sjid=subsession_1529765994016&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=e40e9f2bf23fecad323a1181f8240877
+
 
 ★★★★★ CCTV5 1080P（广东联通，延迟80秒，Chrome✘，海外党√）
 http://116.199.5.51:8114/LIVES/index.m3u8?Fsv_otype=1&FvSeid=&Pcontent_id=&Provider_id=&Fsv_chan_hls_se_idx=39
@@ -76,7 +82,7 @@ http://223.110.245.147/ott.js.chinamobile.com/PLTV/3/224/3221226799/index.m3u8
 http://hls.mv.wa5.com/live/gssports1/playlist.m3u8 
 
 ★★★★★ 广东体育 720P（Chrome√，海外党✘，每场比赛后链接失效）
-http://mgzb.live.miguvideo.com:8088/wd_r1/fifa/gdtyhd/720264/encrypt/01.m3u8?msisdn=13140574124&mdspid=&spid=800033&netType=4&sid=7500001602&pid=2028597139&timestamp=20180624014842&Channel_ID=25000203-99000-200300220100002&ProgramID=642398038&ParentNodeID=-99&assertID=7500001602&client_ip=180.126.168.46&SecurityKey=20180624014842&imei=867883032424443&promotionId=&mvid=7500001435&mcid=500020&mpid=53&mtv_session=e63fadf65a82f450804c4a6222c4d368&jid=E60AE8E53FA3F8100C1330BA88AFE0721529776123681V&LegoPageID=WC-LIVE&sjid=subsession_1529776123689&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=102e4830266466ddd9943050601e000f
+
 
 ★★ CCTV5 720P（南京移动，延迟120秒，Chrome✘，海外党√）
 http://223.110.245.167/ott.js.chinamobile.com/PLTV/3/224/3221226942/index.m3u8
@@ -88,7 +94,7 @@ http://223.110.245.167/ott.js.chinamobile.com/PLTV/3/224/3221226942/index.m3u8
 ****————野球场,海外可用，最后更新时间 6.24——————****
 
 优酷   http://qt1.alivecdn.com/sei/stream413699.m3u8
-CCTV5   https://live.cctalk.com/live_cctalk/cc_g89765r1thj3eftpex/index.m3u8
+CCTV5 https://live.cctalk.com/live_cctalk/cc_g89765r1thj3eftpex/index.m3u8
 
 
 
