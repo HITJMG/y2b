@@ -14,7 +14,7 @@
 
 
 
-****更新时间：2018.6.24  13:44 更新内容：增加四川电信蓝光链接****
+****更新时间：2018.6.24  23:01 更新内容：增加多条五星体育链接****
 
 部分直播链接赛前、赛中不定时更新
 
@@ -55,12 +55,6 @@ http://124.224.238.174/PLTV/88888888/224/3221225890/1000010000000006000000000072
 
 ****———————浏览器通用，海外推荐五星体育———————****
 
-★★★★★ 咪咕 （720P，延时60秒，Chrome√，海外党✘，每场比赛后链接失效）
-
-
-★★★★★咪咕 （1080P，延时60秒，Chrome√，海外党✘，每场比赛后链接失效）
-
-
 ★★★★★ CCTV5 1080P（广东联通，延迟80秒，Chrome✘，海外党√）
 http://116.199.5.51:8114/LIVES/index.m3u8?Fsv_otype=1&FvSeid=&Pcontent_id=&Provider_id=&Fsv_chan_hls_se_idx=39
 
@@ -78,18 +72,19 @@ http://111.48.34.179/wh7f454c46tw1796545278_1328841493/huaweicdn.hb.chinamobile.
 
 ★★★★★ 五星体育 1080P（延迟60秒，Chrome✘，海外党√,)
 http://111.48.34.235/wh7f454c46tw3034174782_30136537/huaweicdn.hb.chinamobile.com/PLTV/2510088/224/3221225772/3.m3u8
+http://111.20.45.160/wh7f454c46tw3072422848_1321119521/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225849/1.m3u8
+http://111.48.34.235/wh7f454c46tw224879224_2084140391/huaweicdn.hb.chinamobile.com/PLTV/2510088/224/3221225772/3.m3u8
 
 ★★★★★ 五星体育 720P（延迟60秒，Chrome✘，海外党√,众多海外党反馈能流畅播放）
 http://223.110.245.147/ott.js.chinamobile.com/PLTV/3/224/3221226799/index.m3u8 
 
-★★★★ 五星体育 1080P （延迟20秒，Chrome√，海外党√，6月22更新：好像不是直播了？）
-http://hls.mv.wa5.com/live/gssports1/playlist.m3u8 
-
-★★★★★ 广东体育 720P（Chrome√，海外党✘，每场比赛后链接失效）
-
+★★★★ 五星体育 1080P （延迟20秒，Chrome√，海外党√）
+http://hls.mv.wa5.com/live/gssports1_900/playlist.m3u8
+http://hls.mv.wa5.com/live/gssports1/playlist.m3u8
 
 ★★ CCTV5 720P（南京移动，延迟120秒，Chrome✘，海外党√）
 http://223.110.245.167/ott.js.chinamobile.com/PLTV/3/224/3221226942/index.m3u8
+
 
 
 
@@ -99,8 +94,7 @@ http://223.110.245.167/ott.js.chinamobile.com/PLTV/3/224/3221226942/index.m3u8
 
 优酷   http://qt1.alivecdn.com/sei/stream224529.m3u8
 CCTV5 https://live.cctalk.com/live_cctalk/cc_g6fb43d881cubrb0sz/index.m3u8
-
-
+台湾艾尔达体育 http://nscreenn-chtmod.cdn.hinet.net/live/FOOTBALL/04.m3u8
 
 
 
