@@ -1,4 +1,4 @@
-## 欢迎关注【谷科】YouTube 频道  直播看球、聊天走一波 
+## 欢迎关注【谷科】YouTube 频道  6月25日直播看球、聊天走一波：https://www.youtube.com/watch?v=-piYm0gAn1M
 
 * 苹果贵族建议使用 Safari 浏览器 —— 安卓小弟任意浏览器 —— 微硬大哥 edge 浏览器和 potplayer
 
@@ -14,7 +14,7 @@
 
 
 
-****更新时间：2018.6.24  23:01 更新内容：增加多条五星体育链接****
+****更新时间：2018.6.25  21:30 更新内容：YouTube 直播聊天侃球走一波，增加 CCTV5+直播链接****
 
 部分直播链接赛前、赛中不定时更新
 
@@ -47,7 +47,6 @@ http://124.224.238.171/PLTV/88888888/224/3221225890/1000010000000006000000000072
 http://124.224.238.172/PLTV/88888888/224/3221225890/10000100000000060000000000725782_0.smil
 http://124.224.238.173/PLTV/88888888/224/3221225890/10000100000000060000000000725782_0.smil
 http://124.224.238.174/PLTV/88888888/224/3221225890/10000100000000060000000000725782_0.smil
-
 
 
 
@@ -88,12 +87,15 @@ http://223.110.245.167/ott.js.chinamobile.com/PLTV/3/224/3221226942/index.m3u8
 
 
 
+****——————CCTV5+，小组赛最后一场专用——————————****
+http://111.48.34.186/wh7f454c46tw846896432_1037257338/huaweicdn.hb.chinamobile.com/PLTV/2510088/224/3221225802/index.m3u8
+http://111.20.45.160/wh7f454c46tw1830881640_2026449185/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225534/index.m3u8
 
 
 
-****————野球场,海外可用，最后更新时间 6.24晚——————****
-CCTV5 https://live.cctalk.com/live_cctalk/cc_g6fb43d881cubrb0sz/index.m3u8
-
+****————野球场,海外可用，最后更新时间 6.25晚——————****
+CCTV5   http://pl.live.weibo.com/alicdn/6736d61c6d1665d60b0a3afbc6aa00d2_wb720.m3u8
+CCTV 5+ http://pl.live.weibo.com/alicdn/ef61e492c6ea9f2e68939bc1001d93ca_wb720.m3u8
 台湾艾尔达体育 http://nscreenn-chtmod.cdn.hinet.net/live/FOOTBALL/04.m3u8
 
 
