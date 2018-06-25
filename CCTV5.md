@@ -90,7 +90,6 @@ http://223.110.245.167/ott.js.chinamobile.com/PLTV/3/224/3221226942/index.m3u8
 
 ****——————CCTV5+，小组赛最后一场专用——————————****
 http://111.48.34.186/wh7f454c46tw846896432_1037257338/huaweicdn.hb.chinamobile.com/PLTV/2510088/224/3221225802/index.m3u8
-http://111.20.45.160/wh7f454c46tw1830881640_2026449185/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225534/index.m3u8
 
 
 
