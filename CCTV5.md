@@ -73,6 +73,7 @@ http://111.48.34.179/wh7f454c46tw1796545278_1328841493/huaweicdn.hb.chinamobile.
 http://111.48.34.235/wh7f454c46tw3034174782_30136537/huaweicdn.hb.chinamobile.com/PLTV/2510088/224/3221225772/3.m3u8
 http://111.20.45.160/wh7f454c46tw3072422848_1321119521/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225849/1.m3u8
 http://111.48.34.235/wh7f454c46tw224879224_2084140391/huaweicdn.hb.chinamobile.com/PLTV/2510088/224/3221225772/3.m3u8
+http://111.48.34.189/wh7f454c46tw3039675858_194216237/huaweicdn.hb.chinamobile.com/PLTV/2510088/224/3221225772/3.m3u8
 
 ★★★★★ 五星体育 720P（延迟60秒，Chrome✘，海外党√,众多海外党反馈能流畅播放）
 http://223.110.245.147/ott.js.chinamobile.com/PLTV/3/224/3221226799/index.m3u8 
