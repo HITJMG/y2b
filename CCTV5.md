@@ -14,16 +14,23 @@
 
 
 
-****更新时间：2018.6.25  21:30 更新内容：YouTube 直播聊天侃球走一波，增加 CCTV5+直播链接****
-
-部分直播链接赛前、赛中不定时更新
+****更新时间：2018.6.26  00:42 更新内容：增加海外人士首选线路****
 
 
 
 
 ### ★ 代表个人推荐度
 
-****———————只能用播放器，如遇无法打开，依次继续用下面的链接,6月24日更新：新增四川电信，十四条线路任选———————————****
+****————海外人士首选，来自huarenTV——————****
+★★★★★★CCTV5 http://lcok.net/live/tao.m3u8
+★★★★★★CCTV5 http://lcok.net/live/tao2.m3u8
+
+★★★★★★CCTV 5+http://lcok.net/live/jia.m3u8
+★★★★★★CCTV 5+http://lcok.net/live/jia2.m3u8
+
+
+
+****———————只能用播放器，如遇无法打开，依次继续用下面的链接,6月26日更新：下面链接随时会挂，不定时恢复———————————****
 
 
 ★★★★★★CCTV5 蓝光 （四川电信，延迟10秒，所有浏览器✘，海外党√，Windows 用 potplayer，Mac和安卓用 MPV）
@@ -96,7 +103,9 @@ http://111.48.34.186/wh7f454c46tw846896432_1037257338/huaweicdn.hb.chinamobile.c
 ****————野球场,海外可用，最后更新时间 6.25晚——————****
 CCTV5   http://pl.live.weibo.com/alicdn/6736d61c6d1665d60b0a3afbc6aa00d2_wb720.m3u8
 CCTV 5+ http://pl.live.weibo.com/alicdn/ef61e492c6ea9f2e68939bc1001d93ca_wb720.m3u8
-台湾艾尔达体育 http://nscreenn-chtmod.cdn.hinet.net/live/FOOTBALL/04.m3u8
+
+台湾艾尔达体育4台 http://nscreenn-chtmod.cdn.hinet.net/live/FOOTBALL/04.m3u8
+台湾艾尔达体育3台 http://nscreenn-chtmod.cdn.hinet.net/live/ELTA_Sport_plus/04.m3u8
 
 
 
