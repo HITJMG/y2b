@@ -1,4 +1,4 @@
-## 欢迎关注【谷科】YouTube 频道  6月26日直播看球、聊天走一波 https://www.youtube.com/watch?v=tDRoKt5yQak
+## 欢迎关注【谷科】YouTube 频道  6月26日直播看球、聊天走一波 https://www.youtube.com/watch?v=IFwuBbjTeW4
 
 * 苹果贵族建议使用 Safari 浏览器 —— 安卓小弟任意浏览器 —— 微硬大哥 edge 浏览器和 potplayer
 
