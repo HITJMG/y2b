@@ -1,4 +1,4 @@
-## 欢迎关注【谷科】YouTube 频道  直播看球、聊天走一波
+## 欢迎关注【谷科】YouTube 频道  6月26日直播看球、聊天走一波 https://www.youtube.com/watch?v=tDRoKt5yQak
 
 * 苹果贵族建议使用 Safari 浏览器 —— 安卓小弟任意浏览器 —— 微硬大哥 edge 浏览器和 potplayer
 
@@ -8,13 +8,15 @@
 
 * 加速不卡带，流畅观看世界杯的播放神器：https://www.youtube.com/watch?v=oBwrrt2kOPc
 
+* 海外专享，世界杯直播网站推荐：https://www.youtube.com/watch?v=lHb8tUTlUQU
+
 如果遇到打开链接闪退的情况，多尝试几次，另外国内十二点以后洗洗睡睡的就不卡了。
 
 测试环境：四川电信+美国+德国 IP
 
 
 
-****更新时间：2018.6.26  00:42 更新内容：增加海外人士首选线路****
+****更新时间：2018.6.26  21:35 更新内容：YouTube 侃球聊天走一波，以及各种链接****
 
 
 
@@ -100,9 +102,9 @@ http://111.48.34.186/wh7f454c46tw846896432_1037257338/huaweicdn.hb.chinamobile.c
 
 
 
-****————野球场,海外可用，最后更新时间 6.25晚——————****
-CCTV5   http://pl.live.weibo.com/alicdn/6736d61c6d1665d60b0a3afbc6aa00d2_wb720.m3u8
-CCTV 5+ http://pl.live.weibo.com/alicdn/ef61e492c6ea9f2e68939bc1001d93ca_wb720.m3u8
+****————野球场,海外可用，最后更新时间 6.26晚——————****
+CCTV5   http://live.cctalk.com/live_cctalk/cc_ymqt2d4d69scgpxum9/index.m3u8
+CCTV 5+ http://pl.live.weibo.com/alicdn/1ba6ed9e7d4f065d7acf6e5ca1a58018_wb720.m3u8
 
 台湾艾尔达体育4台 http://nscreenn-chtmod.cdn.hinet.net/live/FOOTBALL/04.m3u8
 台湾艾尔达体育3台 http://nscreenn-chtmod.cdn.hinet.net/live/ELTA_Sport_plus/04.m3u8
