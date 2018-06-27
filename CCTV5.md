@@ -1,4 +1,4 @@
-## 欢迎关注【谷科】YouTube 频道  直播看球、聊天走一波
+## 欢迎关注【谷科】YouTube 频道  6月27日直播看球、聊天走一波https://www.youtube.com/watch?v=TueR5qipYuY
 
 * 苹果贵族建议使用 Safari 浏览器 —— 安卓小弟任意浏览器 —— 微硬大哥 edge 浏览器和 potplayer
 
@@ -111,9 +111,9 @@ http://huaweicdn.hb.chinamobile.com/PLTV/2510088/224/3221225802/index.m3u8 （�
 
 
 
-****————野球场,海外可用，最后更新时间 6.26晚——————****
-CCTV5   http://live.cctalk.com/live_cctalk/cc_ymqt2d4d69scgpxum9/index.m3u8
-CCTV 5+ http://pl.live.weibo.com/alicdn/1ba6ed9e7d4f065d7acf6e5ca1a58018_wb720.m3u8
+****————野球场,海外可用，最后更新时间 6.27晚——————****
+CCTV5   http://live.cctalk.com/live_cctalk/cc_c5ha00usgm2fhhyoxu/index.m3u8
+CCTV 5+ http://live.cctalk.com/live_cctalk/cc_r8mknbar9qyebzqtyi/index.m3u8
 
 台湾艾尔达体育4台 http://nscreenn-chtmod.cdn.hinet.net/live/FOOTBALL/04.m3u8
 台湾艾尔达体育3台 http://nscreenn-chtmod.cdn.hinet.net/live/ELTA_Sport_plus/04.m3u8
