@@ -1,8 +1,8 @@
 ## 欢迎关注【谷科】YouTube 频道
 
-###本列表中为南京移动 IPTV，没有CCTV5的世界杯直播权。只有五星体育能看到直播，其他频道只能在非比赛直播时间段能看。
+###本列表中为南京移动 IPTV，没有CCTV5的世界杯直播权。只有五星体育能看到直播，CCTV5 只能在非比赛直播时间段能看。
 
-看世界杯直播请了解下：https://raw.githubusercontent.com/HITJMG/y2b/master/CCTV5.md
+看世界杯直播请了解下：https://github.com/HITJMG/y2b/blob/master/CCTV5.md
 Chrome 浏览器看直播方法以及问题请看：https://www.youtube.com/watch?v=5GTilyzy2sI
 
 CCTV5FHD,http://223.110.241.204:6610/gitv/live1/G_CCTV-5-CQ/G_CCTV-5-CQ/
