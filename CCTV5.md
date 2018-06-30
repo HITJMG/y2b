@@ -1,4 +1,4 @@
-## 欢迎关注【谷科】YouTube 频道  6月30直播看球、聊天走一波 https://www.youtube.com/watch?v=OlQWswopoqk
+## 欢迎关注【谷科】YouTube 频道  直播看球、聊天走一波 
 
 * 苹果贵族建议使用 Safari 浏览器 —— 安卓小弟任意浏览器 —— 微硬大哥 edge 浏览器和 potplayer
 
@@ -24,6 +24,7 @@
 ### ★ 代表个人推荐度
 
 ****————海外人士首选，来自huarenTV——————****
+
 ★★★★★★CCTV5 http://bny.lcok.net/live/tao2.m3u8
 
 
@@ -102,6 +103,7 @@ http://223.110.245.147/ott.js.chinamobile.com/PLTV/3/224/3221226799/index.m3u8 �
 
 
 ★★★★ 五星体育 1080P （延迟20秒，Chrome√，海外党√）
+
 http://hls.mv.wa5.com/live/gssports1_900/playlist.m3u8 
 
 http://hls.mv.wa5.com/live/gssports1/playlist.m3u8
@@ -114,6 +116,7 @@ http://223.110.245.167/ott.js.chinamobile.com/PLTV/3/224/3221226942/index.m3u8 �
 
 
 ****————野球场,海外可用，最后更新时间 6.30晚——————****
+
 CCTV5   http://tx01.txcdn.hls.xiaoka.tv/wx-EQbDaTTZRmnhD.m3u8
 
 台湾艾尔达体育3台 http://nscreenn-chtmod.cdn.hinet.net/live/FOOTBALL/04.m3u8
