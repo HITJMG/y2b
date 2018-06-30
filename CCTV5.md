@@ -1,4 +1,4 @@
-## 欢迎关注【谷科】YouTube 频道  直播看球、聊天走一波 
+## 欢迎关注【谷科】YouTube 频道  6月30直播看球、聊天走一波 https://www.youtube.com/watch?v=OlQWswopoqk
 
 * 苹果贵族建议使用 Safari 浏览器 —— 安卓小弟任意浏览器 —— 微硬大哥 edge 浏览器和 potplayer
 
@@ -16,7 +16,7 @@
 
 
 
-****更新时间：2018.6.28  19:55 更新内容：成都暴雨，小区停电一天了，晚上看个球啊***
+****更新时间：2018.6.30  21:47 更新内容：常规更新链接***
 
 
 
@@ -24,11 +24,7 @@
 ### ★ 代表个人推荐度
 
 ****————海外人士首选，来自huarenTV——————****
-★★★★★★CCTV5 http://lcok.net/live/tao.m3u8
-★★★★★★CCTV5 http://lcok.net/live/tao2.m3u8
-
-★★★★★★CCTV 5+http://lcok.net/live/jia.m3u8
-★★★★★★CCTV 5+http://lcok.net/live/jia2.m3u8
+★★★★★★CCTV5 http://bny.lcok.net/live/tao2.m3u8
 
 
 
@@ -117,20 +113,11 @@ http://223.110.245.167/ott.js.chinamobile.com/PLTV/3/224/3221226942/index.m3u8 �
 
 
 
-****——————CCTV5+，小组赛最后一场专用——————————****
-CCTV5+（湖北移动，延迟120秒，Chrome 仅能正常播放 index.m3u8，海外党√）
-http://111.48.34.186/wh7f454c46tw846896432_1037257338/huaweicdn.hb.chinamobile.com/PLTV/2510088/224/3221225802/index.m3u8
+****————野球场,海外可用，最后更新时间 6.30晚——————****
+CCTV5   http://tx01.txcdn.hls.xiaoka.tv/wx-EQbDaTTZRmnhD.m3u8
 
-http://huaweicdn.hb.chinamobile.com/PLTV/2510088/224/3221225802/index.m3u8 （根据 CDN 自动选择最优线路，将index替换为1时，为标清；2为高清；3为超清。不替换默认根据带宽自动选择）
+台湾艾尔达体育3台 http://nscreenn-chtmod.cdn.hinet.net/live/FOOTBALL/04.m3u8
 
-
-
-****————野球场,海外可用，最后更新时间 6.27晚——————****
-CCTV5   http://live.cctalk.com/live_cctalk/cc_c5ha00usgm2fhhyoxu/index.m3u8
-CCTV 5+ http://live.cctalk.com/live_cctalk/cc_r8mknbar9qyebzqtyi/index.m3u8
-
-台湾艾尔达体育4台 http://nscreenn-chtmod.cdn.hinet.net/live/FOOTBALL/04.m3u8
-台湾艾尔达体育3台 http://nscreenn-chtmod.cdn.hinet.net/live/ELTA_Sport_plus/04.m3u8
 
 
 
@@ -138,7 +125,6 @@ CCTV 5+ http://live.cctalk.com/live_cctalk/cc_r8mknbar9qyebzqtyi/index.m3u8
 
 http://hhab.chinashadt.com:2136/live/di2.stream/playlist.m3u8
 
-http://hnxy.chinashadt.com:1936/live/tv3.stream_aac/playlist.m3u8
 
 
 
