@@ -1,4 +1,4 @@
-## 欢迎关注【谷科】YouTube 频道  7月1日直播看球、聊天走一波 https://www.youtube.com/watch?v=9NI8H32WYtQ
+## 欢迎关注【谷科】YouTube 频道  直播看球、聊天走一波
 
 * 苹果贵族建议使用 Safari 浏览器 —— 安卓小弟任意浏览器 —— 微硬大哥 edge 浏览器和 potplayer
 
