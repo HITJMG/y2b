@@ -1,4 +1,4 @@
-## 欢迎关注【谷科】YouTube 频道  直播看球、聊天走一波 
+## 欢迎关注【谷科】YouTube 频道  7月1日直播看球、聊天走一波 https://www.youtube.com/watch?v=9NI8H32WYtQ
 
 * 苹果贵族建议使用 Safari 浏览器 —— 安卓小弟任意浏览器 —— 微硬大哥 edge 浏览器和 potplayer
 
@@ -12,11 +12,11 @@
 
 如果遇到打开链接闪退的情况，多尝试几次，另外国内十二点以后洗洗睡睡的就不卡了。
 
-测试环境：四川电信+美国+德国 IP
+测试环境：四川电信+伦敦+德国 IP
 
 
 
-****更新时间：2018.6.30  21:47 更新内容：常规更新链接***
+****更新时间：2018.7.1  21:23 更新内容：常规更新链接***
 
 
 
@@ -80,7 +80,6 @@ http://huaweicdn.hb.chinamobile.com/PLTV/2510088/224/3221225828/3.m3u8 （超清
 ★★★★ CCTV5 （西安移动，延迟80秒，Chrome√，海外党√）
 http://111.20.45.157/wh7f454c46tw2459201938_998190740/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225834/index.m3u8
 
-http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225835/index.m3u8 （无法观看直播）
 
 
 ★★★★★ 五星体育 1080P（延迟60秒，Chrome 仅能正常播放 index.m3u8，海外党√,)
@@ -92,10 +91,6 @@ http://111.48.34.189/wh7f454c46tw3039675858_194216237/huaweicdn.hb.chinamobile.c
 http://huaweicdn.hb.chinamobile.com/PLTV/2510088/224/3221225772/index.m3u8 （直播时段似乎无法解析，根据 CDN 自动选择最优线路，将index替换为1时，为标清；2为高清；3为超清。不替换默认根据带宽自动选择）
 
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225849/index.m3u8 （直播时段似乎无法解析，根据 CDN 自动选择最优线路,emm 替换也没用）
-
-
-★★★★★ CCTV5 1080P（广东联通，延迟80秒，Chrome√，海外党√）
-http://116.199.5.51:8114/LIVES/index.m3u8?Fsv_otype=1&FvSeid=&Pcontent_id=&Provider_id=&Fsv_chan_hls_se_idx=39
 
 
 ★★★★★ 五星体育 720P（延迟60秒，Chrome 仅能正常播放 index.m3u8，海外党√,众多海外党反馈能流畅播放）
@@ -115,9 +110,9 @@ http://223.110.245.167/ott.js.chinamobile.com/PLTV/3/224/3221226942/index.m3u8 �
 
 
 
-****————野球场,海外可用，最后更新时间 6.30晚——————****
+****————野球场,海外可用，最后更新时间 7.1晚——————****
 
-CCTV5   http://tx01.txcdn.hls.xiaoka.tv/wx-EQbDaTTZRmnhD.m3u8
+CCTV5   http://tx01.txcdn.hls.xiaoka.tv/ZhUEQEIss85rItTt.m3u8
 
 台湾艾尔达体育3台 http://nscreenn-chtmod.cdn.hinet.net/live/FOOTBALL/04.m3u8
 
@@ -127,7 +122,5 @@ CCTV5   http://tx01.txcdn.hls.xiaoka.tv/wx-EQbDaTTZRmnhD.m3u8
 ****—————热心市民 Tommy CCTV5，海外可用———————****
 
 http://hhab.chinashadt.com:2136/live/di2.stream/playlist.m3u8
-
-
 
 
