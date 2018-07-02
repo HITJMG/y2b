@@ -53,7 +53,7 @@ http://huaweicdn.hb.chinamobile.com/PLTV/2510088/224/3221225828/3.m3u8 （超清
 http://111.20.45.157/wh7f454c46tw2459201938_998190740/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225834/index.m3u8
 
 
-★★★★★ 五星体育 1080P（延迟60秒，Chrome 仅能正常播放 index.m3u8，海外党√,)
+★★★★★ 五星体育 1080P（延迟60秒，Chrome 仅能正常播放 index.m3u8，海外党√)
 http://111.48.34.235/wh7f454c46tw3034174782_30136537/huaweicdn.hb.chinamobile.com/PLTV/2510088/224/3221225772/3.m3u8
 http://111.20.45.160/wh7f454c46tw3072422848_1321119521/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225849/1.m3u8
 http://111.48.34.235/wh7f454c46tw224879224_2084140391/huaweicdn.hb.chinamobile.com/PLTV/2510088/224/3221225772/3.m3u8
@@ -85,7 +85,6 @@ http://223.110.245.167/ott.js.chinamobile.com/PLTV/3/224/3221226942/index.m3u8 �
 
 CCTV5   http://r01.wscdn.hls.xiaoka.tv/live/m_r66BUMH85kMhLP/playlist.m3u8
 
-台湾艾尔达体育3台 http://nscreenn-chtmod.cdn.hinet.net/live/FOOTBALL/04.m3u8
 
 
 
