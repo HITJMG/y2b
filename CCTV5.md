@@ -16,18 +16,18 @@
 
 
 
-****更新时间：2018.7.3  21:42 更新内容：常规更新链接***
+****更新时间：2018.7.4  03:07 更新内容：海外人士链接***
 
 
 
 
 ### ★ 代表个人推荐度
 
-****————海外人士首选，来自huarenTV——————****
+****————海外人士首选，来自huarenTV、多瑙——————****
 
-★★★★★★CCTV5 http://bel.lcok.net/live/tao.m3u8
-            http://bel.lcok.net/live/tao2.m3u8
-
+★★★★★★CCTV5 http://blg.lcok.net/live/tao.m3u8
+           
+  http://s4-r1.dnlive.tv:8080/live1/cctv5/playlist.m3u8
 
 
 ****———————浏览器通用，海外推荐五星体育———————****
