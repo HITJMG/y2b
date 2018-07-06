@@ -1,4 +1,4 @@
-## 欢迎关注【谷科】YouTube 频道  7月6日直播看球、拿红包走一波 https://www.youtube.com/watch?v=6FieqEEtxRQ
+## 欢迎关注【谷科】YouTube 频道  直播看球、拿红包走一波 
 
 * 苹果贵族建议使用 Safari 浏览器 —— 安卓小弟任意浏览器 —— 微硬大哥 edge 浏览器和 potplayer 播放器
 
@@ -27,8 +27,11 @@
 
 ****————海外人士首选，来自huarenTV、多瑙——————****
 
-★★★★★★CCTV5 http://cf.crackcer.com/live/tao2.m3u8
+★★★★★★CCTV5 
+http://cf.crackcer.com/live/tao2.m3u8
+
 http://s4-r1.dnlive.tv:8080/live1/cctv5/playlist.m3u8
+
 http://s3-r1.dnlive.tv:8080/edge/cctv5/playlist.m3u8
 
 
