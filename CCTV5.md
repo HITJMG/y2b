@@ -16,8 +16,10 @@
 
 
 
-****更新时间：2018.7.4  03:07 更新内容：海外人士链接***
+****更新时间：2018.7.6  16:10 更新内容：网站站长们来看一下***
 
+网站站长们好，这种链接 huaweicdn.hb.chinamobile.com/index.m3u8 ，似乎在直播时间段无法解析，也可能是我网络问题？为了不影响你们用户的体验，建议增加 IP 线路的方式。
+另外目前北京移动的 IPTV 链接是无法观看 CCTV5 直播，会一直重复播放相同片段。
 
 
 
@@ -33,9 +35,9 @@
 ****———————浏览器通用，海外推荐五星体育———————****
 
 ★★★★ CCTV5 （湖北移动，延迟80秒，Chrome 仅能正常播放 index.m3u8，海外党√）
-http://111.48.34.179/wh7f454c46tw920078275_2068891351/huaweicdn.hb.chinamobile.com/PLTV/2510088/224/3221225828/index.m3u8
-http://111.48.34.182/wh7f454c46tw2768875358_33606921/huaweicdn.hb.chinamobile.com/PLTV/2510088/224/3221225828/1.m3u8
-http://111.48.34.179/wh7f454c46tw1796545278_1328841493/huaweicdn.hb.chinamobile.com/PLTV/2510088/224/3221225828/2.m3u8
+http://111.48.34.179/huaweicdn.hb.chinamobile.com/PLTV/2510088/224/3221225828/index.m3u8
+http://111.48.34.182/huaweicdn.hb.chinamobile.com/PLTV/2510088/224/3221225828/1.m3u8
+http://111.48.34.179/huaweicdn.hb.chinamobile.com/PLTV/2510088/224/3221225828/2.m3u8
 
 
 http://huaweicdn.hb.chinamobile.com/PLTV/2510088/224/3221225828/index.m3u8 （直播时段似乎无法解析，根据 CDN 自动选择最优线路，将index替换为1时，为标清；2为高清；3为超清。不替换默认根据带宽自动选择）
@@ -49,19 +51,13 @@ http://huaweicdn.hb.chinamobile.com/PLTV/2510088/224/3221225828/2.m3u8 （高清
 http://huaweicdn.hb.chinamobile.com/PLTV/2510088/224/3221225828/3.m3u8 （超清）
 
 
-★★★★ CCTV5 （西安移动，延迟80秒，Chrome√，海外党√）
-http://111.20.45.157/wh7f454c46tw2459201938_998190740/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225834/index.m3u8
-
-
 ★★★★★ 五星体育 1080P（延迟60秒，Chrome 仅能正常播放 index.m3u8，海外党√)
-http://111.48.34.235/wh7f454c46tw3034174782_30136537/huaweicdn.hb.chinamobile.com/PLTV/2510088/224/3221225772/3.m3u8
-http://111.20.45.160/wh7f454c46tw3072422848_1321119521/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225849/1.m3u8
-http://111.48.34.235/wh7f454c46tw224879224_2084140391/huaweicdn.hb.chinamobile.com/PLTV/2510088/224/3221225772/3.m3u8
-http://111.48.34.189/wh7f454c46tw3039675858_194216237/huaweicdn.hb.chinamobile.com/PLTV/2510088/224/3221225772/3.m3u8
+http://111.48.34.235/huaweicdn.hb.chinamobile.com/PLTV/2510088/224/3221225772/3.m3u8
+http://111.48.34.235/huaweicdn.hb.chinamobile.com/PLTV/2510088/224/3221225772/3.m3u8
+http://111.48.34.189/huaweicdn.hb.chinamobile.com/PLTV/2510088/224/3221225772/3.m3u8
 
 http://huaweicdn.hb.chinamobile.com/PLTV/2510088/224/3221225772/index.m3u8 （直播时段似乎无法解析，根据 CDN 自动选择最优线路，将index替换为1时，为标清；2为高清；3为超清。不替换默认根据带宽自动选择）
 
-http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225849/index.m3u8 （直播时段似乎无法解析，根据 CDN 自动选择最优线路,emm 替换也没用）
 
 
 ★★★★★ 五星体育 720P（延迟60秒，Chrome 仅能正常播放 index.m3u8，海外党√,众多海外党反馈能流畅播放）
