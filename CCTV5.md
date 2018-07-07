@@ -79,8 +79,7 @@ http://223.110.245.167/ott.js.chinamobile.com/PLTV/3/224/3221226942/index.m3u8 �
 
 ****————野球场,海外可用，最后更新时间 7.7晚——————****
 
-CCTV5  http://pull.talk-cloud.com/live/15985/playlist.m3u8
-http://pull.yzlive.tv/live/edkuhsri5tqwz6zj/playlist.m3u8
+CCTV5  http://pull.yzlive.tv/live/5cewslbgpdfaq6c5/playlist.m3u8
 
 
 
