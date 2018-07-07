@@ -1,4 +1,4 @@
-## 欢迎关注【谷科】YouTube 频道  7月7日直播看球、拿红包走一波 https://www.youtube.com/watch?v=ZbpYwaut_lo
+## 欢迎关注【谷科】YouTube 频道  直播看球、聊赔率走一波 
 
 * 苹果贵族建议使用 Safari 浏览器 —— 安卓小弟任意浏览器 —— 微硬大哥 edge 浏览器和 potplayer 播放器
 
