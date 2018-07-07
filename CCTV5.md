@@ -1,25 +1,15 @@
-## 欢迎关注【谷科】YouTube 频道  直播看球、拿红包走一波 
+## 欢迎关注【谷科】YouTube 频道  7月7日直播看球、拿红包走一波 https://www.youtube.com/watch?v=ZbpYwaut_lo
 
 * 苹果贵族建议使用 Safari 浏览器 —— 安卓小弟任意浏览器 —— 微硬大哥 edge 浏览器和 potplayer 播放器
 
-* Chrome 浏览器观看直播方法以及问题请看：https://www.youtube.com/watch?v=5GTilyzy2sI
+* 海外党小白看世界杯视频画面直播方法  http://gooogle.how/326.html
 
-* Mac和安卓同学打开 rstp 使用 MPV 播放器，请看：https://www.youtube.com/watch?v=QcAp-R9AXBo
-
-* 加速不卡带，流畅观看世界杯的播放神器：https://www.youtube.com/watch?v=oBwrrt2kOPc
-
-* 海外专享，世界杯直播网站推荐：https://www.youtube.com/watch?v=lHb8tUTlUQU
-
-如果遇到打开链接闪退的情况，多尝试几次，另外国内十二点以后洗洗睡睡的就不卡了。
-
-测试环境：四川电信+伦敦+德国 IP
+测试环境：四川电信+伦敦+荷兰 IP
 
 
 
-****更新时间：2018.7.6  22:26 更新内容：增加蓝光链接***
+****更新时间：2018.7.7  21:45 更新内容：常规更新链接***
 
-网站站长们好，这种链接 huaweicdn.hb.chinamobile.com/index.m3u8 ，似乎在直播时间段无法解析，也可能是我网络问题？为了不影响你们用户的体验，建议增加 IP 线路的方式。
-另外目前北京移动的 IPTV 链接是无法观看 CCTV5 直播，会一直重复播放相同片段。
 
 
 
@@ -28,7 +18,9 @@
 ****————海外人士首选，来自huarenTV、多瑙——————****
 
 ★★★★★★CCTV5 
-http://cf.crackcer.com/live/tao2.m3u8
+http://cf.huarenlive.com/live/tao.m3u8
+
+http://cf.1024money.com/live/tao2.m3u8
 
 http://s4-r1.dnlive.tv:8080/live1/cctv5/playlist.m3u8
 
@@ -85,11 +77,10 @@ http://223.110.245.167/ott.js.chinamobile.com/PLTV/3/224/3221226942/index.m3u8 �
 
 
 
-****————野球场,海外可用，最后更新时间 7.6晚——————****
+****————野球场,海外可用，最后更新时间 7.7晚——————****
 
-CCTV5  http://pull.yzlive.tv/live/qvb2jelsf1y7o9tm/playlist.m3u8
-
-
+CCTV5  http://pull.talk-cloud.com/live/15985/playlist.m3u8
+http://pull.yzlive.tv/live/edkuhsri5tqwz6zj/playlist.m3u8
 
 
 
