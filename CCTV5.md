@@ -8,7 +8,7 @@
 
 
 
-****更新时间：2018.7.7  21:45 更新内容：常规更新链接***
+****更新时间：2018.7.11  01:40 更新内容：海外首选&野球场***
 
 
 
@@ -21,6 +21,10 @@
 http://cf.huarenlive.com/live/tao.m3u8
 
 http://cf.1024money.com/live/tao2.m3u8
+
+https://tv6.ime.moe/hls/cctv5hd.m3u8
+
+http://s5-r1.dnlive.tv:8080/s5-r1/cctv5/playlist.m3u8 
 
 http://s4-r1.dnlive.tv:8080/live1/cctv5/playlist.m3u8
 
@@ -77,9 +81,9 @@ http://223.110.245.167/ott.js.chinamobile.com/PLTV/3/224/3221226942/index.m3u8 �
 
 
 
-****————野球场,海外可用，最后更新时间 7.7晚——————****
+****————野球场,海外可用，最后更新时间 7.11凌晨——————****
 
-CCTV5  http://pull.yzlive.tv/live/5cewslbgpdfaq6c5/playlist.m3u8
+CCTV5  http://pull.yzlive.tv/live/oovus8nbtdxpfjsr/playlist.m3u8
 
 
 
