@@ -8,7 +8,7 @@
 
 
 
-****更新时间：2018.7.12  01:42 更新内容：野球场***
+****更新时间：2018.7.12  02:53 更新内容：增加 CCTV1***
 
 
 
@@ -29,6 +29,9 @@ http://s5-r1.dnlive.tv:8080/s5-r1/cctv5/playlist.m3u8
 http://s4-r1.dnlive.tv:8080/live1/cctv5/playlist.m3u8
 
 http://s3-r1.dnlive.tv:8080/edge/cctv5/playlist.m3u8
+
+★★★★★★CCTV1 比赛照样直播，观看人少，流畅度较好
+http://wc7.beeyooo.com/1hao.m3u8
 
 
 ****———————只能用播放器———————****
@@ -84,6 +87,7 @@ http://223.110.245.167/ott.js.chinamobile.com/PLTV/3/224/3221226942/index.m3u8 �
 ****————野球场,海外可用，最后更新时间 7.12凌晨——————****
 
 CCTV5  http://pull.lespark.cn/live/1t3a07jj5trj3myyc2pqanq5yglt3c2u/playlist.m3u8
+
 无解说  http://pull.lespark.cn/live/2ealjm9yadba4zus1vnq0ggndgc85y06/playlist.m3u8
 
 ****—————热心市民 Tommy CCTV5，海外可用———————****
