@@ -8,7 +8,7 @@
 
 
 
-****更新时间：2018.7.12  02:53 更新内容：增加 CCTV1***
+****更新时间：2018.7.14  21:25 更新内容：常规更新链接***
 
 
 
@@ -18,11 +18,9 @@
 ****————海外人士首选，来自huarenTV、多瑙——————****
 
 ★★★★★★CCTV5 
-http://cf.huarenlive.com/live/tao.m3u8
+http://cf.dusns.com/live/tao.m3u8
 
-http://cf.1024money.com/live/tao2.m3u8
-
-https://tv6.ime.moe/hls/cctv5hd.m3u8
+http://cf.cucuwu.com/live/jia.m3u8
 
 http://s5-r1.dnlive.tv:8080/s5-r1/cctv5/playlist.m3u8 
 
@@ -84,11 +82,10 @@ http://223.110.245.167/ott.js.chinamobile.com/PLTV/3/224/3221226942/index.m3u8 �
 
 
 
-****————野球场,海外可用，最后更新时间 7.12凌晨——————****
+****————野球场,海外可用，最后更新时间 7.14晚——————****
 
-CCTV5  http://pull.lespark.cn/live/1t3a07jj5trj3myyc2pqanq5yglt3c2u/playlist.m3u8
+CCTV5  http://pull.lespark.cn/live/pe957aeo0rpvomz6zjl7v7ewg0g0ygex/playlist.m3u8
 
-无解说  http://pull.lespark.cn/live/2ealjm9yadba4zus1vnq0ggndgc85y06/playlist.m3u8
 
 ****—————热心市民 Tommy CCTV5，海外可用———————****
 
